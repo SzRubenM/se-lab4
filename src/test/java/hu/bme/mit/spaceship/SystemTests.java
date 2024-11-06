@@ -90,7 +90,7 @@ class SystemTests {
 
     /**
      * Normalize a string.
-     * 
+     * ./mvnw verify
      * This function does the following:
      * <ol>
      * <li>remove comment characters (<code>#</code>) and any characters that follow them in the
